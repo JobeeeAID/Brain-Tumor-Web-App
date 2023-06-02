@@ -1,0 +1,12 @@
+Werkzeug
+Flask
+numpy
+gevent
+h5py
+tensorflow
+gunicorn
+pillow
+matplotlib
+keras
+opencv-python
+imutils
